@@ -1,0 +1,41 @@
+# Dependencies for Predictive Modeling of EUR/USD Price Variations
+
+## Core Libraries
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+tqdm
+joblib
+
+## Natural Language Processing (NLP)
+nltk
+spacy
+transformers
+textblob
+
+## Machine Learning & Deep Learning
+xgboost
+lightgbm
+tensorflow
+keras
+
+## Data Processing & APIs
+requests
+beautifulsoup4
+datetime
+json
+
+## Deployment
+flask
+fastapi
+uvicorn
+gunicorn
+
+## Jupyter Notebook
+notebook
+jupyterlab
+
